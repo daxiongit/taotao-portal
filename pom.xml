@@ -17,6 +17,12 @@
 			<artifactId>taotao-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<!-- 加入 pojo 依赖 -->
+		<dependency>
+			<groupId>com.taotao</groupId>
+			<artifactId>taotao-manager-pojo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
